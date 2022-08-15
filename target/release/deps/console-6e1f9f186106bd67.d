@@ -1,0 +1,13 @@
+/home/denis/git/rustlings/target/release/deps/console-6e1f9f186106bd67.rmeta: /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/denis/git/rustlings/target/release/deps/libconsole-6e1f9f186106bd67.rlib: /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/denis/git/rustlings/target/release/deps/console-6e1f9f186106bd67.d: /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs /home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs
+
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/lib.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/common_term.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/kb.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/term.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/unix_term.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/utils.rs:
+/home/denis/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.1/src/ansi.rs:

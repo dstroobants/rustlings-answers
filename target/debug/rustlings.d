@@ -1,0 +1,1 @@
+/home/denis/git/rustlings/target/debug/rustlings: /home/denis/git/rustlings/src/exercise.rs /home/denis/git/rustlings/src/main.rs /home/denis/git/rustlings/src/project.rs /home/denis/git/rustlings/src/run.rs /home/denis/git/rustlings/src/ui.rs /home/denis/git/rustlings/src/verify.rs
